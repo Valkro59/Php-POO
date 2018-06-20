@@ -1,0 +1,17 @@
+{
+    "name": "aston/api",
+    "description": "API REST",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Valentin Krolak",
+            "email": "Valkro59@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4": {
+            "Aston\\": "src/Aston"
+            }
+        },
+    "require": {}
+}
